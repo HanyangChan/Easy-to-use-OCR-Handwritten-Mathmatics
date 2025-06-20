@@ -13,6 +13,18 @@ This tool is designed to easily convert images and scanned documents into editab
 - 📷 Supports multiple image formats.
 - ⚡ Quick and accurate text extraction.
 
+## 🔧 Installation
+-MacTex: If you're on macOS, you'll need to install MacTeX.
+```
+brew install --cask mactex
+```
+* **Windows:** Install [MiKTeX](https://miktex.org/download) or [TeX Live](https://www.tug.org/texlive/acquire-iso.html). Follow their respective installation guides.
+
+-Python Dependencies
+```
+pip install torch torchvision torchaudio
+```
+
 ## 🚀 Getting Started
 1. Copy and put your image file path.
 2. Click the Run.
